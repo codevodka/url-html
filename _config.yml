@@ -3,7 +3,7 @@
 baseurl: "/url-html"
 title: OMG Entertainment Group
 description: Transform Every Event Into an Unforgettable Experience
-url: "" # Update this to your GitHub Pages URL, e.g. https://username.github.io
+url: "https://codevodka.github.io" # Update this to your GitHub Pages URL, e.g. https://username.github.io
 
 # Clean URLs - removes .html extension
 permalink: pretty
