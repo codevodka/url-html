@@ -1,6 +1,6 @@
 # Jekyll configuration for OMG Entertainment Group
 # GitHub Pages with clean URLs (no .html extension)
-baseurl: "/url-html"
+baseurl: "/"
 title: OMG Entertainment Group
 description: Transform Every Event Into an Unforgettable Experience
 url: "https://codevodka.github.io" # Update this to your GitHub Pages URL, e.g. https://username.github.io
