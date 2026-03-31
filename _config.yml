@@ -15,3 +15,15 @@ exclude:
   - README.md
   - node_modules
   - .gitignore
+
+plugins:
+  - jekyll-seo-tag                   # Auto-generates SEO meta tags
+  - jekyll-sitemap                   # Auto-generates sitemap.xml
+  # - jekyll-feed                      # Auto-generates RSS feed
+
+# Custom site-wide variables
+email: info@OMGgroup.com.au   # <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+phone: "1300 300 664"
+social:
+  facebook: "#"
+  instagram: "#"
