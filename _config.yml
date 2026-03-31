@@ -25,5 +25,5 @@ plugins:
 email: info@OMGgroup.com.au   # <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 phone: "1300 300 664"
 social:
-  facebook: "#"
-  instagram: "#"
+  facebook: "#"  # <a href="{{ site.social.facebook }}">Facebook</a>
+  instagram: "#"  
