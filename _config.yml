@@ -1,0 +1,17 @@
+# Jekyll configuration for OMG Entertainment Group
+# GitHub Pages with clean URLs (no .html extension)
+
+title: OMG Entertainment Group
+description: Transform Every Event Into an Unforgettable Experience
+url: "" # Update this to your GitHub Pages URL, e.g. https://username.github.io
+
+# Clean URLs - removes .html extension
+permalink: pretty
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - .gitignore
